@@ -56,6 +56,14 @@ The full rules are in `frontend-architecture.md`. The key constraints are:
 - Spec values and defaults live in `config/`, each annotated as either defined by `product-spec` or provisional. Do not hard-code them in components.
 - Do not add dependencies, including test frameworks, without stating the reason and recording it in `development-plan.md`.
 
+### Example Module
+
+`docs/guides/example-exercise-toggle.md` describes a minimal reference module that covers part of FE-04. It exists for students to study and then reset.
+
+- Do not extend the example module into the full FE-04 workstream.
+- When a student is re-implementing it, work one file per step as the guide describes. Do not restore the example files from git in bulk.
+- The example does not count toward any workstream's progress in `development-plan.md`.
+
 ### Development Plan Maintenance
 
 - Before starting a task, identify its workstream and acceptance criteria in `development-plan.md`.

@@ -13,6 +13,7 @@
 - `docs/architecture/api-contracts.md`：前端與後端的 API 契約。
 - `docs/architecture/frontend-architecture.md`：前端技術選型、目錄結構、各層職責與 Mock 機制。
 - `docs/wireframe/`：頁面配置與操作流程的視覺參考；適用範圍見 §2.4。
+- `docs/guides/example-exercise-toggle.md`：範例模組說明。範例僅供參考與重置，不計入任何工作區塊的完成進度。
 
 ### 1.2 規劃原則
 

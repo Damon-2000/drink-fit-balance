@@ -13,7 +13,7 @@
 | 前後端之間的資料長什麼樣子         | `docs/architecture/api-contracts.md`         |
 | 程式碼放在哪裡、各層負責什麼（規則） | `docs/architecture/frontend-architecture.md` |
 | 為什麼這樣設計（本文件）           | `Tutorial.md`                                |
-| 一個完整的小範例                   | `docs/guides/example-measurement.md`         |
+| 一個完整的小範例                   | `docs/guides/example-exercise-toggle.md`         |
 | AI Agent 要遵守的規則              | `AGENTS.md`                                  |
 
 ---
